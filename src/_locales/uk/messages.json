@@ -70,7 +70,7 @@
         }
     },
     "General_extensionDescription": {
-        "message": "Назначити проксі-сервер контейнеру"
+        "message": "Призначте проксі в контейнер"
     },
     "ProxyForm_testProxySettingsConfirmationText": {
         "message": "Щоб перевірити настройки, необхідно здійснити пару запитів до $DUCKDUCKGO_NAME$. Продовжити?",
