@@ -123,7 +123,7 @@
         "description": "Текст отображаемый на кнопке импорта если файл не выбран или некорректный"
     },
     "ImportPage_importButtonDoImport": {
-        "message": "Импортировать $NUMBER$ прокси",
+        "message": "Import $NUMBER$ proxies",
         "description": "Текст отображаемый на кнопке импорта если есть что импортировать",
         "placeholders": {
             "NUMBER": {
