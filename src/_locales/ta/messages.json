@@ -33,7 +33,7 @@
         "message": "உள்ளக முகவரிகளை பதிலாள் செய்ய வேண்டாம் (லோக்கல் புரவலன், 127.0.0.1, :: 1)"
     },
     "ProxyForm_testProxySettingsConfirmationText": {
-        "message": "அமைப்புகளை சோதிக்க $ duckduckgo_name பெறுநர் க்கு இரண்டு கோரிக்கைகளைச் செய்ய வேண்டும். தொடரவா?",
+        "message": "அமைப்புகளைச் சோதிக்க $DUCKDUCKGO_NAME$ க்கு இரண்டு கோரிக்கைகளைச் செய்ய வேண்டும். தொடரவா?",
         "placeholders": {
             "DUCKDUCKGO_NAME": {
                 "content": "DuckDuckGo"
@@ -44,7 +44,7 @@
         "message": "தேர்வு"
     },
     "ProxyForm_duckduckgoAttribution": {
-        "message": "Ip duckduckgo_name இருந்து இலிருந்து ip முடிவுகள்",
+        "message": "$DUCKDUCKGO_NAME$ இலிருந்து முகவரி முடிவுகள்",
         "placeholders": {
             "DUCKDUCKGO_NAME": {
                 "content": "DuckDuckGo"
@@ -67,7 +67,7 @@
         "message": "பிழை! ப்ராக்சியுடன் இணைக்க முடியவில்லை. அநேகமாக அமைப்புகள் தவறானவை."
     },
     "SupportPage_gitterInvite": {
-        "message": "உங்களிடம் ஏதேனும் கேள்விகள் இருந்தால், ஒரு சிக்கல் இருந்தால் அல்லது அரட்டையடிக்க விரும்பினால் எங்கள் சேனலில் $ gitter_name $:",
+        "message": "உங்களிடம் ஏதேனும் கேள்விகள் இருந்தால், ஒரு சிக்கல் இருந்தால் அல்லது அரட்டையடிக்க விரும்பினால் எங்கள் சேனலில் $GITTER_NAME$:",
         "placeholders": {
             "GITTER_NAME": {
                 "content": "Gitter"
@@ -87,7 +87,7 @@
         "message": "ஒரு கோப்பைத் தேர்ந்தெடுக்கவும்"
     },
     "ImportPage_importButtonDoImport": {
-        "message": "இறக்குமதி $ எண் $ ப்ராக்சிகள்",
+        "message": "இறக்குமதி $NUMBER$ பதிலாள்கள்",
         "placeholders": {
             "NUMBER": {
                 "content": "$1"
